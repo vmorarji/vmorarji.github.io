@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Vijal Morarji"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning Portfolio"
   location         : "London, UK"
   email            :
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/vijal-morarji-b01989196"
 
 # Site Footer
 footer:
