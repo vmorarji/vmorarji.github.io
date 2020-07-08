@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Vijal Morarji"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Vijal Morarji"
+name                     : #"Vijal Morarji"
 description              : "Machine Learning Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -290,4 +290,3 @@ defaults:
     values:
       layout: single
       author_profile: True
-
