@@ -6,4 +6,8 @@ header:
   overlay_image: "/images/banner2.jpg"
 ---
 
-I'm an aspiring Python machine learning engineer
+Hi!
+
+Thanks for visiting my portfolio. On this site you will be able to find the source code for my projects along with a detailed explanation for each.
+
+I’m a machine learning enthusiast who has taken time out of work to build on my python skills and develop my python data science knowledge.
